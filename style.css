@@ -41,7 +41,7 @@ font-style: normal;
   -webkit-user-select: none; /* 사파리/크롬용 */
   -moz-user-select: none;    /* 파이어폭스용 */
   -ms-user-select: none;     /* IE/Edge용 */
-  filter: blur(4px);
+  filter: blur(2px);
 }
 
 h1 {
